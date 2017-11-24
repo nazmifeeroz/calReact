@@ -19,8 +19,7 @@ class Appointments extends React.Component {
       <form>
         <input 
         onChange={this.changeName}
-        placeholder={this.state.name}
-        autofocus
+        placeholder={this.state.name}        
         />
       </form>
         <p>Hey {this.state.name}</p>

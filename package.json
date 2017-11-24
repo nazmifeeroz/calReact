@@ -1,5 +1,7 @@
 {
   "name": "calReact",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "react-markdown": "^3.0.1"
+  }
 }
